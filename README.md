@@ -17,3 +17,12 @@ ML Engineer Course
 * How to delete a branch: `git branch -d` 
 * Push from local machine to github: `git push --set-upstream origin develop`
 * View the log history: `git log`
+
+## Testing
+
+### Unit Tests
+
+Use `pytest` package:
+* Create a test file starting with test_.
+* Define unit test functions that start with test_ inside the test file.
+* Enter pytest into your terminal in the directory of your test file and it detects these tests for you.
