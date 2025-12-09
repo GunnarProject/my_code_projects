@@ -26,3 +26,9 @@ Use `pytest` package:
 * Create a test file starting with test_.
 * Define unit test functions that start with test_ inside the test file.
 * Enter pytest into your terminal in the directory of your test file and it detects these tests for you.
+
+## Logging
+
+* `Debug:` Use this level for anything that happens in the program. 
+* `Error:` Use this level to record any error that occurs.
+* `Info:` Use this level to record all actions that are user driven or system specific, such as regularly scheduled operations.

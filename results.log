@@ -1,0 +1,16 @@
+2025-12-03 18:59:57,176 - INFO - Types are both integers
+2025-12-04 13:47:46,072 - ERROR - It appears that the first value is not of type int or float
+2025-12-04 13:47:46,074 - INFO - SUCCESS: it looks like the values are ints
+2025-12-04 14:08:33,929 - ERROR - It appears that the first value is not of type int or float
+2025-12-04 14:08:33,937 - INFO - SUCCESS: it looks like the values are ints
+2025-12-04 14:11:54,368 - ERROR - It appears that the first value is not of type int or float
+2025-12-04 14:11:54,372 - INFO - SUCCESS: it looks like the values are ints
+2025-12-04 14:13:29,574 - INFO - no, way
+2025-12-04 14:13:29,575 - INFO - no, way
+2025-12-04 14:13:29,575 - ERROR - It appears that the first value is not of type int or float
+2025-12-04 14:13:29,575 - INFO - 4, 5
+2025-12-04 14:13:29,575 - INFO - SUCCESS: it looks like the values are ints
+2025-12-04 14:20:10,633 - INFO - %f %f
+2025-12-04 14:20:10,633 - ERROR - It appears that the first value is not of type int or float
+2025-12-04 14:20:10,634 - INFO - %f %f
+2025-12-04 14:20:10,634 - INFO - SUCCESS: it looks like the values are ints

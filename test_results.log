@@ -1,0 +1,39 @@
+2025-12-04 14:29:34,245 - INFO - 3.400000, 0.000000
+2025-12-04 14:32:10,410 - INFO - 3.400000, 0.000000
+2025-12-04 14:32:29,069 - INFO - 3.400000, 0.000000
+2025-12-04 14:32:29,070 - INFO - 4.500000, 2.700000
+2025-12-04 14:32:29,082 - INFO - SUCCES: numerator and denominator are both floats
+2025-12-04 14:32:29,082 - INFO - -3.800000, 2.100000
+2025-12-04 14:32:29,082 - INFO - SUCCES: numerator and denominator are both floats
+2025-12-04 14:32:29,082 - INFO - 1.000000, 2.000000
+2025-12-04 14:32:29,082 - INFO - 5
+2025-12-04 14:32:29,083 - INFO - This is the best string
+2025-12-04 14:32:29,083 - INFO - one
+2025-12-04 14:41:28,070 - INFO - 3.400000, 0.000000
+2025-12-04 14:41:28,071 - ERROR - ERROR: Denominator is zero or one the values is not a float
+2025-12-04 14:41:28,071 - INFO - 4.500000, 2.700000
+2025-12-04 14:41:28,071 - INFO - SUCCES: numerator and denominator are both floats
+2025-12-04 14:41:28,071 - INFO - -3.800000, 2.100000
+2025-12-04 14:41:28,071 - INFO - SUCCES: numerator and denominator are both floats
+2025-12-04 14:41:28,071 - INFO - 1.000000, 2.000000
+2025-12-04 14:41:28,071 - ERROR - ERROR: Denominator is zero or one the values is not a float
+2025-12-04 14:41:28,071 - INFO - 5
+2025-12-04 14:41:28,071 - ERROR - ERROR: text is not of type string
+2025-12-04 14:41:28,071 - INFO - This is the best string
+2025-12-04 14:41:28,071 - INFO - SUCCES: text is of type string
+2025-12-04 14:41:28,071 - INFO - one
+2025-12-04 14:41:28,071 - INFO - SUCCES: text is of type string
+2025-12-09 22:10:59,256 - INFO - 3.400000, 0.000000
+2025-12-09 22:10:59,257 - ERROR - ERROR: Denominator is zero or one the values is not a float
+2025-12-09 22:10:59,257 - INFO - 4.500000, 2.700000
+2025-12-09 22:10:59,257 - INFO - SUCCES: numerator and denominator are both floats
+2025-12-09 22:10:59,257 - INFO - -3.800000, 2.100000
+2025-12-09 22:10:59,257 - INFO - SUCCES: numerator and denominator are both floats
+2025-12-09 22:10:59,258 - INFO - 1.000000, 2.000000
+2025-12-09 22:10:59,258 - ERROR - ERROR: Denominator is zero or one the values is not a float
+2025-12-09 22:10:59,258 - INFO - 5
+2025-12-09 22:10:59,258 - ERROR - ERROR: text is not of type string
+2025-12-09 22:10:59,258 - INFO - This is the best string
+2025-12-09 22:10:59,258 - INFO - SUCCES: text is of type string
+2025-12-09 22:10:59,258 - INFO - one
+2025-12-09 22:10:59,258 - INFO - SUCCES: text is of type string
